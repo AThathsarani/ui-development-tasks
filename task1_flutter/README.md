@@ -1,16 +1,15 @@
-# delivery_app_ui
+# Flutter Delivery App UI
 
-A new Flutter project.
+## Overview
+This project is a Flutter implementation of the delivery app UI based on the provided Figma design.
 
-## Getting Started
+## Running the App
+1. Ensure you have Flutter installed.
+2. Navigate to the `task1_flutter` directory.
+3. Run `flutter pub get` to install dependencies.
+4. Run `flutter run` to start the app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Structure
+- `lib/`: Contains the main Flutter code.
+- `android/`, `ios/`: Platform-specific code.
+- `test/`: Contains test files.
